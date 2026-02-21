@@ -8,4 +8,4 @@ Mom (moved): "Hey, it's okay, just be more careful next time, alright?"
 Next week you start playing soccer once again, and your dad sees your passion for it. You tell him that you want to become a professional, he is surprised but supports you. At night, you're wondering what your future is going to look like, you want to chase your dreams, but if that ever mean you're going to have to leave your family, what will you do?
 
 * [Leave](../lonely-journey/offer.md)
-* [Stay](..supported/offer.md)
+* [Stay](../supported/offer.md)

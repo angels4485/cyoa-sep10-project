@@ -3,4 +3,4 @@ While eating dinner you hear your parents talk about work while you're mostly si
 You notice that your dad doesnt have a plate and figure out that it's probably because there might not be enough money in the household.
 
 * [Tell your parents about your dream of playing professional soccer](converse.md)
-* [Remain silent]()
+* [Remain silent](stay-silent/silent2.md)
