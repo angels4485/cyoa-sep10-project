@@ -10,5 +10,5 @@ You: Thank you mom, thank you dad, I love you both.
 
 2 years later, you are playing for a well known soccer club and are one of the best players in the team. One day you get an offer to go to play soccer in another country, but you can't bring your family.
 
-* [accept the offer]()
-* [decline offer]()
+* [accept the offer](../../lonely-journey/offer.md)
+* [decline offer](../.../supported/offer.md)

@@ -2,4 +2,4 @@ You grab your soccer ball and head to your backyard where you juggle the ball fo
 
 * [Go have dinner](dinner/dinner.md)
 
-* [Ignore her and keep juggling]()
+* [Ignore her and keep juggling](ignore/ignore.md)
