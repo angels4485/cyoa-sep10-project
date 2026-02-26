@@ -4,5 +4,5 @@ You decided you want to go to morning practice tommorow. You go to bed and have 
 
 * [Skip practice and go back to sleep](morning/sleep.md)
 
-* [Go back](../choose.md)
+* [Go back](choose.md)
 
