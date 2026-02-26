@@ -3,3 +3,5 @@ You played really good and impressed coach morton, he put you into the starting 
 * [Yes and give him the contact information](pro/yes.md)
 
 * [No and have some time to think about it](pro/no.md)
+
+* [Go back](../practice2.md)
