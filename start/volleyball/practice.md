@@ -3,3 +3,6 @@ You decided you want to go to morning practice tommorow. You go to bed and have 
 * [Lock in and get ready](morning/practice2.md)
 
 * [Skip practice and go back to sleep](morning/sleep.md)
+
+* [Go back](choose.md)
+

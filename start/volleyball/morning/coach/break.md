@@ -3,3 +3,5 @@ You made a horrible choice to not stretch before practicing and tear your leg mu
 * [You walk it off like nothing happend and sit out](injury/broken.md)
 
 * [You tell coach morton to call an ambulance](injury/hospital.md)
+
+* [Go back](../practice2.md)

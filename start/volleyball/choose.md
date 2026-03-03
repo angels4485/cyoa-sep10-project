@@ -2,4 +2,4 @@ Now that you've chosen to become a professional volleyball player. You can choos
 
 * [Watch Bahodur's reels](reels.md)
 * [Go to morning practice](practice.md)
-* [Go back](start-journey.md)
+* [Go back](../start-journey.md)
